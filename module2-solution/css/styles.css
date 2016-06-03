@@ -17,8 +17,8 @@ div > p {
   
   /* float: right; */
   position: absolute;  
-  top: 0px;
-  right: 0px;    
+  top: -1px;
+  right: -1px;    
     
   width:100px;
 }
