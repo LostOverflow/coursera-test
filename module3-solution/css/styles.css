@@ -1,1 +1,17 @@
+.navbar {
+	background-color: light-green;
+}
+
+.text-container {
+	background-color:lightgreen;
+	font-size: 1.5em;
+	padding:10px;
+}
+
+
+.navbar-nav li {
+	background-color:lightpink;	
+	border:1px;
+	border-bottom-color:red;
+}
 
