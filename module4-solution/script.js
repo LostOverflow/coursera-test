@@ -65,4 +65,3 @@ WARNING!!! WARNING!!!
     }
   }
 })(window);
-
